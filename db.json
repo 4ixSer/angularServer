@@ -1,6 +1,5 @@
 {
-  "posts": [
-    {
+  "getContent": {
 	"user": {
     			"id":1,
     			"name":"Steve",
@@ -141,9 +140,8 @@
     	}
     ]
     
-}
-  ],
-  "profile": {
+},
+  "post": {
     "name": "typicode"
   }
 }
