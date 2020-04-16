@@ -1,0 +1,149 @@
+{
+  "posts": [
+    {{
+	"user": {
+    			"id":1,
+    			"name":"Steve",
+    			"surname":"Jobs",
+    			"title":"Programmer",
+    			"url":"somesite.com",
+    			"urlImage":"../../assets/img/photo.jpeg"
+    		},
+   	"titleAbout": "Who Was Steve Jobs?",
+   	"textAbout": "Steven Paul Jobs was an American inventor, designer and entrepreneur who was the co-founder, chief executive and chairman of Apple Computer. Apple's revolutionary products, which include the iPod, iPhone and iPad, are now seen as dictating the evolution of modern technology. Born in 1955 to two University of Wisconsin graduate students who gave him up for adoption, Jobs was smart but directionless, dropping out of college and experimenting with different pursuits before co-founding Apple with Steve Wozniak in 1976. Jobs left the company in 1985, launching Pixar Animation Studios, then returned to Apple more than a decade later. Jobs died in 2011 following a long battle with pancreatic cancer.",
+    "contacts": [
+        {
+            "type": "twitter",
+            "name": "Twitter",
+            "description": "https://twitter.com/WordPress"
+        },
+        {
+            "type": "facebook",
+            "name": "Facebook",
+            "description": "https://facebook.com/facebook/1"
+        },
+        {
+            "type": "envelope",
+            "name": "offitial@eamil.com",
+            "description": null
+        },
+        {
+            "type": "phone",
+            "name": "80631231",
+            "description": null
+        },
+        {
+            "type": "skype",
+            "name": "Skype",
+            "description": "facebook.pl"
+        }
+    ],
+    "skills": [
+        {
+            "name": "HTML",
+            "level": 4
+        },
+        {
+            "name": "CSS",
+            "level": 3
+        },
+        {
+            "name": "Skill",
+            "level": 2
+        },
+        {
+            "name": "Java",
+            "level": 1
+        }
+    ],
+    "educations": [
+        {
+            "dateGraduation": "1955",
+            "title": "1955",
+            "text": "up for adoption, Jobs was smart but directionless, dropping out of college and experimenting with different pursuits before co-founding Apple with Steve Wozniak in 1976. Jobs left the company in 1985, launching Pixar Animation Studios, then returned to Apple more than a decade later. Jobs died in 2011 following a long battle with pancreatic cancer."
+        },
+        {
+            "dateGraduation": "1956",
+            "title": "dasdsd",
+            "text": "Born in 1955 to two University of Wisconsin graduate students who gave him up for adoption, Jobs was smart but directionless, dropping out of college and experimenting with different pursuits before co-founding Apple with Animation Studios, then returned to Apple more than a decade later. Jobs died in 2011 following a long battle with pancreatic cancer."
+        },
+        {
+            "dateGraduation": "1958",
+            "title": "sadsda",
+            "text": "Born in 1955 to two University of Wisconsin graduate students who gave him up for adoption, Jobs was smart but directionless, dropping out of college and experimenting with different pursuits before co-founding Apple with Animation Studios, then returned to Apple more than a decade later. Jobs died in 2011 following a long battle with pancreatic cancer."
+        },
+        {
+            "dateGraduation": "1959",
+            "title": "Fefas",
+            "text": "Born in 1955 to two University of Wisconsin graduate students who gave him up for adoption, Jobs was smart but directionless, dropping out of college died in 2011 following a long battle with pancreatic cancer."
+        }
+    ],
+    "experiences": [
+        {
+            "companyName": "Google",
+            "technologyName": "Front-end developer",
+            "description": "Hyper Text Markup Language (HTML) is the backbone of any website development process, without which a web page doesn't exist. Hypertext means that text has links, termed hyperlinks, embedded in it. When a user clicks on a word or a phrase that has a hyperlink, it will bring another web-page.",
+            "startDate": "2012",
+            "endDate": "2014"
+        },
+        {
+            "companyName": "Twitter",
+            "technologyName": "Web developer",
+            "description": "Web developers are found working in various types of organizations, including large corporations and governments, small and medium-sized companies, or alone as freelancers. Some web developers work for one organization as a permanent full-time employee, while oth",
+            "startDate": "2012",
+            "endDate": "2014"
+        }
+    ],
+    "feedbacks":[
+    	{
+    		"text":	"1. I think you did a great job when you ran the all hands meeting. It showed that you are capable of getting people to work together and communicate effectively. I admire your communication skills.",
+    		"user": {
+    			"id":1,
+    			"name":"Sergii",
+    			"surname":"Gnuchykh",
+    			"title":"Programmer",
+    			"url":"somesite.com",
+    			"urlImage":"../../assets/img/photo.jpeg"
+    		}
+    	},
+    		{
+    		"text":	"2. I think you did a great job when you ran the all hands meeting. It showed that you are capable of getting people to work together and communicate effectively. I admire your communication skills.",
+    		"user": {
+    			"id":2,
+    			"name":"Sergii",
+    			"surname":"Gnuchykh",
+    			"title":"Programmer",
+    			"url":"somesite.com",
+    			"urlImage":"../../assets/img/photo.jpeg"
+    		}
+    	},
+    		{
+    		"text":	"3. I think you did a great job when you ran the all hands meeting. It showed that you are capable of getting people to work together and communicate effectively. I admire your communication skills.",
+    		"user": {
+    			"id":3,
+    			"name":"Sergii",
+    			"surname":"Gnuchykh",
+    			"title":"Programmer",
+    			"url":"somesite.com",
+    			"urlImage":"../../assets/img/photo.jpeg"
+    		}
+    	},
+    		{
+    		"text":	"4. I think you did a great job when you ran the all hands meeting. It showed that you are capable of getting people to work together and communicate effectively. I admire your communication skills.",
+    		"user": {
+    			"id":4,
+    			"name":"Sergii",
+    			"surname":"Gnuchykh",
+    			"title":"Programmer",
+    			"url":"somesite.com",
+    			"urlImage":"../../assets/img/photo.jpeg"
+    		}
+    	}
+    ]
+    
+}
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
